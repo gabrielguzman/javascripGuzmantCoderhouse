@@ -1,0 +1,10 @@
+.container {
+    max-width: 960px;
+}
+
+.container-fluid.footer {
+    background: black;
+    color:white;
+    text-align: center;
+    font-size:1.2em;
+}
